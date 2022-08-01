@@ -1,0 +1,5 @@
+user-agent: *
+Allow: /
+
+
+Sitemap: https://hashnsalt.github.io/sitemap.xml
